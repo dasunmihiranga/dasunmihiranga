@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-    <img src="https://github.com/dulina2004/dulina2004/blob/output/github-snake-dark.svg" alt="Snake animation" />
+    <img src="https://github.com/dasunmihiranga/dasunmihiranga/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunmihiranga" alt="dasunmihiranga" /></a> </p>
 
