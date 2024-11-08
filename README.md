@@ -14,7 +14,7 @@
 </td>
 <td width="50%" align="center">
 
-  - 🌱 I’m currently learning **Enterprise Engineering with Java**
+  - 🌱 I’m currently learning **MERN Stack Technologies**
 
 - 📫 How to reach me **da12345sun@gmail.com**
 
