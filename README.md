@@ -101,7 +101,7 @@ typescriptCopyconst developer = {
 
 
 <!-- Language Progress Bars -->
-<div align="center">
+<!-- <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-brightgreen?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-brightgreen?style=for-the-badge&logo=typescript)
@@ -114,7 +114,7 @@ typescriptCopyconst developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-75%25-yellow?style=for-the-badge&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-85%25-brightgreen?style=for-the-badge&logo=mysql)
 
-</div>
+</div> -->
 
 <div align="center">
 
