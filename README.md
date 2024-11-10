@@ -47,7 +47,7 @@ typescriptCopyconst developer = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunmihiranga&theme=radical&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Dasun's Github Stats" />
   
   <br></br>
-  
+
 <img src="https://streak-stats.demolab.com?user=dasunmihiranga&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&dates=c9d1d9" alt="Dasun's Github Streak" />
 </td>
 
