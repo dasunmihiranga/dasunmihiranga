@@ -174,7 +174,7 @@ JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
 
 ## 📫 Contact
 <div align="center">
-  <a href="mailto:da12345sun@gmail.com">
+  <a href="mailto:dasunweerakoon99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
