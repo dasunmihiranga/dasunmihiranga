@@ -123,7 +123,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-85%25-brightgreen?style=for-the-badge&logo=mysql)
 
 </div> -->
-
+<!--
 <div align="center">
 
 ### 📈 Weekly Development Breakdown
@@ -136,7 +136,7 @@ CSS          2 hrs 45 mins   ██▒░░░░░░░░░░░░░░
 JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 <div align="center">
