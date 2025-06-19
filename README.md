@@ -25,11 +25,9 @@
   languages: ["Python", "Java", "TypeScript", "JavaScript", "Dart"],
   currentLearning: [
     "LLM Engineering",
-    "Machine Learning",
-    "Deep Learning",
+    "ML & DL",
     "Data Science",
     "Agentic Systems",
-    "RAG (Retrieval-Augmented Generation)"
   ],
   funFact: "I talk to LLMs more than people—and they understand me better."
 };
