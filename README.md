@@ -59,7 +59,7 @@
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunmihiranga&theme=radical&hide_border=true&hide=Jupyter%20Notebook&layout=compact&langs_count=10&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9" alt="Dasun's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunmihiranga&theme=radical&hide_border=true&layout=compact&langs_count=16&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9" alt="Dasun's Top Languages" />
   
   <br></br>
   
