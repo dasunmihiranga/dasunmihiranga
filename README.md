@@ -154,9 +154,6 @@ JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
   <a href="https://stackoverflow.com/users/24064543" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-  <a href="https://fb.com/dasunmihiranga.weerakoon" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
   <a href="https://instagram.com/dasun_mihiranga_weerakoon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
