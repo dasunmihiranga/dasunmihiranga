@@ -41,7 +41,6 @@
 
 -   **SUSL**  
     _Selected for the BSc. Information Systems Degree Program (Awaiting Intake)_
-    
 ---
 
 ## 📊 GitHub Statistics
@@ -69,8 +68,9 @@
 </tr>
 </table>
 
+
 <!-- GitHub Activity Graph -->
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
 <td align="center" width="100%">
 
@@ -78,10 +78,12 @@
 
 </td>
 </tr>
-</table>
+</table>  -->
+
+
 
 <!-- Detailed Language Stats -->
-<table align="center">
+<!--<table align="center">
 <tr border="none">
 <td align="center" width="100%">
 
@@ -92,10 +94,10 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <!-- Profile Summary -->
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
 <td align="center" width="100%">
 
@@ -103,7 +105,9 @@
 
 </td>
 </tr>
-</table>
+</table> -->
+
+
 
 
 <!-- Language Progress Bars -->
@@ -141,9 +145,10 @@ JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=dasunmihiranga&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
-## 💻 Tech Stack
+<!-- ## 💻 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,java,spring,python,flutter,dart,aws,git,figma,bootstrap,tailwind,sass,html,css,mysql&perline=10&theme=dark)
+-->
 
 ## 🌐 Connect with me
 
@@ -179,12 +184,13 @@ JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
   <img src="https://github.com/dasunmihiranga/dasunmihiranga/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<!--
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
----
+--->
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+visiting!+✌️">
