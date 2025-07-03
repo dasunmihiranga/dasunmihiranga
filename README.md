@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Dasun;AI/ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
